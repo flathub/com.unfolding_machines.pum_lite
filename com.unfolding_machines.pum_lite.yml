@@ -26,6 +26,6 @@ modules:
     sources:
       - type: archive
         url: https://pumcpub.s3.eu-central-1.amazonaws.com/pum-lite_1.0.1_Linux-Portable.tar.gz
-        sha256: 743419b8f4bfeffa73a2ff2be19855133fcbe5a9766ec39c19b5d78a33c45cba
+        sha256: a9084bfc0b519501b46a748485056c8540064cc14a91f3c2d2a4154259094aa6
         only-arches:
           - x86_64
